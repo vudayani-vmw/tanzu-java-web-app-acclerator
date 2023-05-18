@@ -9,3 +9,8 @@ management:
   endpoint:
     health:
       show-details: always
+server:
+  port: 8089
+management:
+  server:
+    port: 8083
